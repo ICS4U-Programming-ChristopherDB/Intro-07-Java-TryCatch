@@ -41,8 +41,9 @@ public final class VolSphere {
         System.out.print("\nEnter the units of the radius: ");
         // Gets the units of the radius.
         final String inputUnits = sc.nextLine() + "^3";
-        // Calculates the volume of the sphere.
-        final double sphereVolume = (4.0f / 3.0f) * Math.PI * Math.pow(userRadius, 3);
+        // Calculation broken into two steps to prevent long line
+        final double halfCalculation = (4.0f / 3.0f) * Math.PI;
+        final double sphereVolume = halfCalculation * Math.pow(userRadius, 3);
         // Formats the volume to three decimal places.
         final String formattedVolume = decimalFormatter.format(sphereVolume);
         // Prints the volume of the sphere.
