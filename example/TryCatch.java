@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 
 // VolSphere class
-public final class VolSphere {
+public final class TryCatch {
 
   /** Private constructor to prevent instantiation. */
   private VolSphere() {
