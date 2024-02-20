@@ -11,11 +11,11 @@ import java.util.Scanner;
  * @since 15-2-2024
  */
 
-// VolSphere class
+// TryCatch class
 public final class TryCatch {
 
   /** Private constructor to prevent instantiation. */
-  private VolSphere() {
+  private TryCatch() {
     throw new UnsupportedOperationException("Cannot instantiate");
   }
 
