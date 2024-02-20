@@ -1,3 +1,3 @@
-# Intro-06-Java-VolSphere
+# Intro-07-Java-TryCatch
 
-[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-ChristopherDB/Intro-06-Java-VolSphere/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-ChristopherDB/Intro-06-Java-VolSphere/actions/)
+[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-ChristopherDB/Intro-07-Java-TryCatch/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-ChristopherDB/Intro-07-Java-TryCatch/actions/)
